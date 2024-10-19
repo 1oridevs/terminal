@@ -2,11 +2,11 @@
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
-    basePath: '/<terminal>',
-    trailingSlash: true, 
+    output: 'export',  // Enable static export
+    basePath: '/terminal',  // Your GitHub repo name, exactly as it is: /terminal
+    trailingSlash: true,  // For compatibility with GitHub Pages
     images: {
-      unoptimized: true, // Disable Next.js Image Optimization for GitHub Pages
+      unoptimized: true,  // Disable image optimization since GitHub Pages doesn't support it
     },
   };
   
