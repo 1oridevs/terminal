@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[505],{5505:function(e,n,t){t.r(n),t.d(n,{default:function(){return o},description:function(){return r}});let r="Learn more about me";function o(){return"I am Ori Cohen, a passionate developer working on making the world a better place through code!"}}}]);
