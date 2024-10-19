@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[221],{8221:function(n,t,e){e.r(t),e.d(t,{default:function(){return c},description:function(){return u}});let u="Test command";function c(){return"Pong!"}}}]);
